@@ -467,5 +467,25 @@ p {
 }
 
 .PHILOSOPHY-OF-MY-LIFE{
-  m
+  margin: 252px auto;
+  
+}
+.PHILOSOPHY{
+  font-family: "League Spartan", sans-serif;
+  font-weight: 700;
+  font-size: 2.6rem;
+  margin-top: 10px;
+  line-height: 40px;
+  text-align: center;
+}
+.PHILOSOPHY-OF-MY-LIFE li{
+  list-style: none;
+  margin-bottom: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 1.1rem;
+  color: #190d37;
+  line-height: 27px;
+  margin-top: 10px;
+  text-align: center;
 }
